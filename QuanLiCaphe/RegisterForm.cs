@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QuanLiCaphe
 {
-    public partial class Menu : Form
+    public partial class RegisterForm : Form
     {
-        public Menu()
+        public RegisterForm()
         {
             InitializeComponent();
         }
