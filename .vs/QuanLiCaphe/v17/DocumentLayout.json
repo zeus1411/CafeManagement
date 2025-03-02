@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|d:\\ute docs\\3rd\\sem2\\dbm\\cf project\\cafemanagement\\quanlicaphe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|d:\\ute docs\\3rd\\sem2\\dbm\\cf project\\cafemanagement\\quanlicaphe\\form_bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\form_bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|d:\\ute docs\\3rd\\sem2\\dbm\\cf project\\cafemanagement\\quanlicaphe\\form_bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\form_bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|d:\\ute docs\\3rd\\sem2\\dbm\\cf project\\cafemanagement\\quanlicaphe\\form_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\form_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|d:\\ute docs\\3rd\\sem2\\dbm\\cf project\\cafemanagement\\quanlicaphe\\form_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\form_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\quanlicaphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +43,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form_Bills.cs",
+              "DocumentMoniker": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Form_Bills.cs",
+              "RelativeDocumentMoniker": "QuanLiCaphe\\Form_Bills.cs",
+              "ToolTip": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Form_Bills.cs",
+              "RelativeToolTip": "QuanLiCaphe\\Form_Bills.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAawAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:17:03.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Bills.cs [Design]",
+              "DocumentMoniker": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Form_Bills.cs",
+              "RelativeDocumentMoniker": "QuanLiCaphe\\Form_Bills.cs",
+              "ToolTip": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Form_Bills.cs [Design]",
+              "RelativeToolTip": "QuanLiCaphe\\Form_Bills.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:16:06.048Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_Management.cs",
+              "DocumentMoniker": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Form_Management.cs",
+              "RelativeDocumentMoniker": "QuanLiCaphe\\Form_Management.cs",
+              "ToolTip": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Form_Management.cs",
+              "RelativeToolTip": "QuanLiCaphe\\Form_Management.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:06:25.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_Management.cs [Design]",
+              "DocumentMoniker": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Form_Management.cs",
+              "RelativeDocumentMoniker": "QuanLiCaphe\\Form_Management.cs",
+              "ToolTip": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Form_Management.cs [Design]",
+              "RelativeToolTip": "QuanLiCaphe\\Form_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:47:14.845Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Program.cs",
               "RelativeDocumentMoniker": "QuanLiCaphe\\Program.cs",
@@ -40,18 +102,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T06:47:41.665Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Form1.cs",
-              "RelativeDocumentMoniker": "QuanLiCaphe\\Form1.cs",
-              "ToolTip": "D:\\UTE DOCS\\3rd\\sem2\\DBM\\Cf project\\CafeManagement\\QuanLiCaphe\\Form1.cs [Design]",
-              "RelativeToolTip": "QuanLiCaphe\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T06:47:14.845Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

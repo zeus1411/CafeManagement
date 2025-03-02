@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace QuanLiCaphe
 {
-    public partial class Form1 : Form
+    public partial class Form_Management : Form
     {
-        public Form1()
+        public Form_Management()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
