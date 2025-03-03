@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|E:\\CafeManagement\\quanlicaphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|E:\\CafeManagement\\quanlicaphe\\informationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\informationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|E:\\CafeManagement\\quanlicaphe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|E:\\CafeManagement\\quanlicaphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,27 +34,25 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "E:\\CafeManagement\\QuanLiCaphe\\Login.cs",
               "RelativeDocumentMoniker": "QuanLiCaphe\\Login.cs",
               "ToolTip": "E:\\CafeManagement\\QuanLiCaphe\\Login.cs [Design]",
               "RelativeToolTip": "QuanLiCaphe\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T15:17:54.926Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-02T15:17:54.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InformationForm.cs [Design]",
               "DocumentMoniker": "E:\\CafeManagement\\QuanLiCaphe\\InformationForm.cs",
               "RelativeDocumentMoniker": "QuanLiCaphe\\InformationForm.cs",
               "ToolTip": "E:\\CafeManagement\\QuanLiCaphe\\InformationForm.cs [Design]",
               "RelativeToolTip": "QuanLiCaphe\\InformationForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T14:59:54.094Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-02T14:59:54.094Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\CafeManagement\\QuanLiCaphe\\Program.cs",
               "RelativeDocumentMoniker": "QuanLiCaphe\\Program.cs",
