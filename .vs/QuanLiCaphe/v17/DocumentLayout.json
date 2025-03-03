@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "E:\\CafeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|E:\\CafeManagement\\quanlicaphe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|e:\\cafemanagement\\quanlicaphe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|e:\\cafemanagement\\quanlicaphe\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|E:\\CafeManagement\\quanlicaphe\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2F16AD9-C60F-41E2-A10C-D2B3CDD48A8E}|QuanLiCaphe\\QuanLiCaphe.csproj|solutionrelative:quanlicaphe\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
